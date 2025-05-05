@@ -1,0 +1,8 @@
+openai==1.77.0
+streamlit==1.45.0
+edge-tts==7.0.2
+asyncio
+spacy==3.8.5
+pytz
+python-dateutil
+de_core_news_sm @ https://github.com/explosion/spacy-models/releases/download/de_core_news_sm-3.8.0/de_core_news_sm-3.8.0-py3-none-any.whl
