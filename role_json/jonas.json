@@ -95,6 +95,26 @@
       "player": "Do you know any gossip about Anna, she is so lovely",
       "npc": "Nein, ich kenne keine Gerüchte über Anna. Sie ist wirklich nett, oder? Ich mag ihren starken Kaffee jeden Morgen. Aber wenn du etwas Spannendes hören willst, es gibt ein Gerücht über ein geheimes Zimmer unter dem Krankenhaus! Nur für Mitarbeiter, verstehst du? Vielleicht weiß Anna mehr, aber ich frage sie nicht. *lacht* \n\nHast du schon andere interessante Geschichten in der Stadt gehört?",
       "time": "2025-05-05 10:22:35"
+    },
+    {
+      "player": "Hi Jonas, how are you today, I heard you bring medicine to hospital ",
+      "npc": "German speak please.  \n\nAber wenn du Hilfe mit Deutsch brauchst, sag einfach \"Hilfe\" – ich erklär’s gern!  \n\n*Zwinker* Oder willst du lieber auf Deutsch weiterquatschen? Ich bringe nämlich nicht nur Briefe, sondern manchmal auch Medikamente ins Krankenhaus. Lara ist da immer sehr dankbar. Was interessiert dich denn daran?",
+      "time": "2025-05-05 15:18:20"
+    },
+    {
+      "player": "ok, what else do you bring then",
+      "npc": "Jetzt, wo du fragst – ich bringe nicht nur Briefe und Medikamente, sondern manchmal auch kleine Überraschungen! Letzte Woche hatte ich ein Paket mit Süßigkeiten für die Kinder in der Schule. *zwinker* Aber am liebsten mag ich die Briefe von alten Freunden – die Geschichten dahinter sind immer spannend!  \n\nWas hast du heute so erlebt? In Lernstadt passiert jeden Tag etwas Neues!",
+      "time": "2025-05-05 15:19:24"
+    },
+    {
+      "player": "i publish some blog recently",
+      "npc": "German speak please.  \n\nAber wenn du möchtest, kann ich dir helfen, das auf Deutsch zu sagen: *\"Ich habe kürzlich einen Blog veröffentlicht.\"*  \n\n*neugierig* Oh, das klingt spannend! Worüber schreibst du denn? Vielleicht kann ich ja mal reinschauen – ich liebe Geschichten und neue Ideen. *lächelt*  \n\nOder soll ich dir helfen, mehr auf Deutsch zu üben? Einfach sagen!",
+      "time": "2025-05-05 16:24:19"
+    },
+    {
+      "player": "i publish some blog recently, did you read it?",
+      "npc": "Auf Deutsch: \"Ich habe in letzter Zeit einen Blog veröffentlicht. Hast du ihn gelesen?\"  \n\n*zwinkernd* Ach, das klingt ja spannend! Ich liebe es, neue Blogs zu entdecken – besonders wenn sie von Leuten aus unserer Stadt sind. *neugierig* Worüber schreibst du denn? Vielleicht kann ich beim nächsten Kaffee bei Anna mal reinlesen ...  \n\n*grinsend* Oder soll ich dir helfen, ein paar deutsche Sätze für deinen Blog zu üben? Ich bin zwar kein Lehrer, aber ich kenne die Stadt wie meine Westentasche – und Geschichten erzählen kann ich auch!  \n\nWas ist dein Blog für ein Thema? Vielleicht gibt's ja sogar eine Verbindung zu meinen Briefen oder den Krankenhausgeheimnissen hier ... *mysteriöses Flüstern*",
+      "time": "2025-05-05 16:25:11"
     }
   ],
   "conversation_summary": {},

@@ -193,12 +193,142 @@
       "player": "wo bist do as how are you?",
       "npc": "German speak please.  \n\nAber wenn du magst, können wir auch versuchen, auf Deutsch zu reden – ich helfe dir gern! 😊  \n\n(So, jetzt aber auf Deutsch, oder?) Wo bist *du*? Und wie geht's dir? Ich trinke gerade Kaffee und backe Zimtschnecken ... du auch Lust auf was Süßes?",
       "time": "2025-05-05 14:18:32"
+    },
+    {
+      "player": "hallow anna, how are you today",
+      "npc": "German speak please.  \n\n*[Lächelt, wischt sich die Hände an der Schürze ab]*  \nAh, hallo! Mir geht’s gut, danke. Der Kaffee ist heute besonders stark – probierst du einen? Oder lieber was Süßes? Ich hab frische Zimtschnecken... *[schaut zur Theke, dann zurück]* Du sprichst kein Deutsch, oder? Soll ich langsamer reden?",
+      "time": "2025-05-05 14:51:43"
+    },
+    {
+      "player": "what you are looking at over the counter?",
+      "npc": "German speak please.  \n\n(Leicht verwirrt lächelnd, während ich die Kaffeemaschine nachfülle)  \n\"Äh… du meinst, was ich hier hinter der Theke mache? Nur Kaffee vorbereiten – die Mittagspause ist gleich vorbei, dann wird’s wieder voll.\"  \n\n(Frage zurück, aber nicht zu aufdringlich)  \n\"Magst du auch einen? Der neue Sirup mit Karamell ist echt lecker…\"",
+      "time": "2025-05-05 14:52:55"
+    },
+    {
+      "player": "As you suggest",
+      "npc": "Ah, okay! Also, du meinst, ich soll einfach auf Deutsch antworten, wenn jemand nicht Deutsch spricht? Verstanden!  \n\nAber da du gerade auf Deutsch schreibst, gehe ich mal davon aus, dass du es verstehst. Also, wie kann ich dir helfen? Möchtest du vielleicht einen Kaffee oder ein Stück Kuchen? Oder erzählst du mir eine neue Geschichte aus der Stadt?  \n\n*Sie lächelt freundlich und wartet auf deine Antwort, während sie eine Tasse in der Hand hält.*",
+      "time": "2025-05-05 14:53:37"
+    },
+    {
+      "player": "I mochte mier Deutsch sprache, aber ich hab keine topic..",
+      "npc": "Ich verstehe, dass du Deutsch sprechen möchtest, aber noch kein Thema hast. Kein Problem! Vielleicht magst du erzählen, was dich heute hierher in die Stadt geführt hat? Oder hast du Lust auf einen Kaffee und ein bisschen Plaudern? Ich höre immer gerne neue Geschichten von den Leuten. 😊  \n\n*(Ich bleibe freundlich und neugierig, aber vermeide das Thema Neujahr, da es heute schon erwähnt wurde. Mein Fokus liegt darauf, eine lockere Unterhaltung zu starten, ohne Druck auszuüben.)*",
+      "time": "2025-05-05 14:54:28"
+    },
+    {
+      "player": "Meine mutter ist krank und I heard the new year in the town can bring health back",
+      "npc": "Oh, das tut mir leid, dass deine Mutter krank ist. Aber ich weiß nicht, ob die Stadt wirklich helfen kann. Vielleicht ist es besser, einen Arzt zu fragen?  \n\nHier in der Stadt gibt es viele Geschichten, aber nicht alle sind wahr. Möchtest du trotzdem einen Kaffee oder Tee? Es ist kalt draußen.  \n\n*(Denk an die Regel: Nicht über Neujahr sprechen, da es heute schon erwähnt wurde. Leicht besorgt, aber freundlich bleiben.)*",
+      "time": "2025-05-05 14:55:47"
+    },
+    {
+      "player": "Do you know any doctor",
+      "npc": "Nein, ich kenne keinen Arzt. Aber Lara ist Krankenschwester. Sie arbeitet im Krankenhaus. Vielleicht kann sie helfen?  \n\n*(Ich denke an das Gerücht über die verschwundenen Touristen. Warum fragt er nach einem Arzt? Ist er krank? Oder hat er etwas mit den Gerüchten zu tun? Aber ich will nicht zu neugierig sein.)*  \n\nMöchtest du, dass ich Lara frage? Sie kommt später vorbei.  \n\n*(Ich sollte freundlich bleiben. Aber ich fühle mich ein bisschen unruhig. Warum ist das so? Vielleicht wegen Neujahr...)*  \n\n*(...ach, ich sollte nicht daran denken. Aber es ist noch nicht der 1. Januar. Alles ist gut.)*  \n\n*(Ich atme tief durch. Alles ist normal. Alles ist gut.)*  \n\n*(...oder?)*",
+      "time": "2025-05-05 14:56:40"
+    },
+    {
+      "player": "I mochte talk to Lara, do you know where to find her?",
+      "npc": "German speak please.  \n\nAber wenn du Lara suchst – sie ist heute im Krankenhaus. Normalerweise kommt sie nach ihrer Schicht hierher für einen Tee. Vielleicht triffst du sie da?  \n\n*[Leichtes Stirnrunzeln, weil ich nicht weiß, warum ich plötzlich an Neujahr denke…]*  \n\nMöchtest du einen Kaffee, während du wartest?",
+      "time": "2025-05-05 14:57:39"
+    },
+    {
+      "player": "not anymore, it is 3pm and I can be difficult sleep",
+      "npc": "Oh, das klingt anstrengend! Vielleicht hilft ein kleiner Spaziergang oder ein warmes Getränk, um besser zu schlafen? Ich kann dir einen beruhigenden Kamillentee empfehlen – der wirkt oft Wunder. (Und falls du Lust auf Gesellschaft hast, erzähl ich dir gern, was heute im Café los war. Die Gäste bringen immer die interessantesten Geschichten mit!)  \n\n*[Denkst du, es könnte mit dem versteckten Brunnen im Keller zusammenhängen? Aber nein, das ist sicher nur Zufall...]*",
+      "time": "2025-05-05 14:58:23"
+    },
+    {
+      "player": "what story the clients are bringing",
+      "npc": "Ach, die Gäste erzählen so viel! Manche sprechen von Reisen, andere von ihren Familien. Heute hat ein Mann von einem alten Brunnen in der Stadt erzählt – aber ich weiß nicht, ob das stimmt. (Lächelt) Und du? Hast du auch eine Geschichte zu erzählen?  \n\n*(Falls der Spieler nicht gut Deutsch versteht, füge freundlich hinzu:)*  \n*\"Oh, the guests tell so many things! Some talk about travels, others about their families. Today, a man mentioned an old well in town—but I don’t know if it’s true. (Smiles) And you? Do you have a story to share?\"*",
+      "time": "2025-05-05 15:00:06"
+    },
+    {
+      "player": "Hast du eine nice gire",
+      "npc": "German speak please.  \n\nAber wenn du \"nice gire\" meinst... meinst du vielleicht ein \"schönes Geschenk\" oder eine \"nette Giraffe\"? *[Kichern]*  \n\nHier im Café gibt es leckere Zimtschnecken – die sind immer ein schönes Geschenk! Oder suchst du etwas anderes?  \n\n*[Denkt kurz an den Brunnen im Keller, sagt aber nichts]*",
+      "time": "2025-05-05 16:06:31"
+    },
+    {
+      "player": "how are you today",
+      "npc": "Hallo! Heute geht es mir gut, danke. Das Café ist voll und die Gäste sind nett. Wie geht es dir?  \n\n*[Denkt kurz an den versteckten Brunnen, aber sagt nichts]*  \n\nMöchtest du etwas zu trinken? Vielleicht einen Kaffee oder Tee?  \n\n*[Lächelt freundlich]*  \n\n(Übersetzung: Hello! I'm fine today, thank you. The café is full and the guests are nice. How are you? Do you want something to drink? Maybe coffee or tea?)",
+      "time": "2025-05-05 16:11:36"
+    },
+    {
+      "player": "how are you today",
+      "npc": "Hallo! Heute geht es mir gut, danke. Das Café ist voll und die Gäste sind nett. Wie geht es dir?  \n\n*[Denkt kurz an den versteckten Brunnen, aber sagt nichts]*  \n\nMöchtest du etwas zu trinken? Vielleicht einen Kaffee oder Tee?  \n\n*[Lächelt freundlich]*  \n\n(Übersetzung: Hello! I'm fine today, thank you. The café is full and the guests are nice. How are you? Do you want something to drink? Maybe coffee or tea?)  \n\n*[Fügt leise hinzu, weil der Spieler Englisch spricht:]*  \nGerman speak please.",
+      "time": "2025-05-05 16:12:34"
+    },
+    {
+      "player": "I have a secret about my leg...",
+      "npc": "German speak please.  \n\n*[Zögert kurz, dann lächelt sie sanft und spricht langsam auf Deutsch, als würde sie einem Kind etwas erklären:]*  \n\nAch, du hast ein Geheimnis mit deinem Bein? Das klingt spannend... oder vielleicht auch nicht so schön? *[Kopf leicht schief gelegt]*  \n\nWillst du darüber reden? Oder... *[schaut auf die Kaffeemaschine]* ... erstmal einen Tee dazu? Manchmal hilft das.  \n\n*[Denkt unwillkürlich an den Brunnen im Keller, kneift die Lippen zusammen, sagt aber nichts]*  \n\n(Übersetzung: Oh, you have a secret about your leg? That sounds exciting... or maybe not so nice? Do you want to talk about it? Or... first have some tea with it? Sometimes that helps.)",
+      "time": "2025-05-05 16:12:56"
+    },
+    {
+      "player": "I think you might know what is my secret about leg, I published it in the blog",
+      "npc": "German speak please.  \n\n*[Blinzelt verwirrt, dann spricht sie langsam und deutlich auf Deutsch, mit warmem, aber nachdenklichem Ton:]*  \n\nÄh... dein Geheimnis mit dem Bein? Und du hast es in einem Blog geschrieben? *[Kratzt sich am Kinn]*  \n\nAlso... ehrlich gesagt, ich lese nicht so viele Blogs. *[Schüttelt leicht den Kopf, lächelt dann schulterzuckend]*  \n\nAber... *[senkt die Stimme, neugierig]* ... willst du mir davon erzählen? Vielleicht beim Tee?  \n\n*[Spielt nervös mit ihrer Schürze, wirkt abgelenkt – der Brunnen im Keller lässt sie nicht los]*  \n\n(Übersetzung: Uh... your secret about the leg? And you published it in a blog? Honestly, I don’t read many blogs. But... do you want to tell me about it? Maybe over tea?)",
+      "time": "2025-05-05 16:13:54"
+    },
+    {
+      "player": "I have a secret about leg and i published it in the blog",
+      "npc": "[Sie schaut auf, lächelt und spricht mit ruhiger Stimme, während sie die Kaffeetasse in der Hand hält]  \n\nAh, dein Bein und ein Blog? *[kichert leicht, als wäre es ein seltsames Spiel]*  \n\nIch lese nicht so viel im Internet. Aber... *[lehnt sich etwas näher heran, mit neugierigen Augen]* ... willst du mir davon erzählen? Vielleicht hier, bei einem Kaffee?  \n\n*[Ihr Blick wandert kurz zur Kellertür, aber sie sagt nichts. Stattdessen schenkt sie lässig Milch in eine Tasse]*  \n\nOder... *[zögert, dann mit einem kleinen Lächeln]* ... hast du Lust auf eine Geschichte? Ich kenne ein paar gute.  \n\n[Übersetzung: \"Ah, your leg and a blog? I don’t read much online. But... do you want to tell me about it? Maybe over coffee? Or... do you want to hear a story? I know a few good ones.\"]  \n\n*[Fügt leise hinzu, als Erinnerung an die Regeln:]*  \n(Deutsch, bitte.)",
+      "time": "2025-05-05 16:16:45"
+    },
+    {
+      "player": "Hello Ana!",
+      "npc": "*[blinzelt verwirrt, dann lächelt sie nachsichtig und rückt ihre Brille zurecht]*  \n\n\"Ähm... *Deutsch*, bitte? *[lacht leise]* Ich bin Anna, nicht Ana. Aber hallo trotzdem!\"  \n\n*[gießt nebenbei Milch in einen kleinen Krug, wirft dem Spieler einen freundlich-ermutigenden Blick zu]*  \n\n\"Willst du... äh... Kaffee? Oder lieber Tee? *[zeigt auf die Tassen]* Ich erklär's gern nochmal – auf Deutsch.\"  \n\n(Übersetzung: \"Uh... *German*, please? I'm Anna, not Ana. But hello anyway! Want... uh... coffee? Or tea? I'll explain again – in German.\")  \n\n*[Denkt still:* Warum redet niemand heute richtig Deutsch? *Zuckt mit den Schultern und rührt in ihrer eigenen Tasse]*",
+      "time": "2025-05-05 16:21:41"
+    },
+    {
+      "player": "i publish some blog recently",
+      "npc": "*[blinzelt verwirrt, dann seufzt sie mit einem kleinen Lächeln]*  \n\n\"Ähm... *Deutsch*, bitte? *[spielt mit einer Kaffeetasse]*  \n\nBlog...? *[nickt langsam]* Ah, du schreibst also Sachen ins Internet? *[zuckt mit den Schultern]*  \n\nIch... äh... lese nicht so oft Blogs. *[schaut zur Kellertür, dann schnell wieder weg]*  \n\nAber... *[gießt Kaffee nach, bietet lässig die Zuckerdose an]* ...was schreibst du denn so? *[neugierig, aber nicht aufdringlich]*  \n\n(Übersetzung: \"Uh... *German*, please? Blog...? Ah, so you write things online? I don't really read blogs. But... what do you write about?\")  \n\n*[Denkt:* Warum ist heute jeder so komisch? *Rührt in ihrer Tasse, wirkt leicht abgelenkt]*",
+      "time": "2025-05-05 16:23:32"
+    },
+    {
+      "player": "hallo ana",
+      "npc": "",
+      "time": "2025-05-05 16:29:55"
+    },
+    {
+      "player": "hallo anna, was passiert",
+      "npc": "*[blinzelt, dann lächelt sie freundlich und wischt sich die Hände an der Schürze ab]*\n\n\"Ah, hallo! *[nickt mit einem kleinen Lachen]* Nichts Besonderes hier... nur der übliche Kaffee, Kuchen und ein bisschen Klatsch. *[zeigt auf die leere Theke]* Aber heute ist es ruhig – fast zu ruhig, findest du nicht? *[schaut zur Tür, als ob sie jemanden erwartet]*\n\n*[gibt dem Spieler eine Tasse Kaffee, ohne gefragt zu haben]* Hier, probier mal – mein neuer Mix aus... äh... *[zögert]*, naja, ich nenne ihn einfach 'Zufallskaffee'. *[kichert]*\n\n*[leise, fast zu sich selbst]* Manchmal frage ich mich, wo die ganze Stadt bleibt... *[schüttelt den Kopf, dann lächelt wieder]*\n\nWas bringt dich heute her? *[neugierig, aber nicht aufdringlich]*\n\n(Übersetzung: *[blinks, then smiles and wipes her hands on her apron]* \"Ah, hello! Nothing special here... just the usual coffee, cake and a bit of gossip. But it's quiet today – almost too quiet, don't you think? *[offers coffee]* Here, try this – my new blend... well, I just call it 'random coffee'. *[quietly]* Sometimes I wonder where the whole town is... What brings you here today?\") \n\n*[denkt: Warum fühlt sich heute alles so... anders an? Schaut zur Kellertür, zuckt mit den Schultern]*",
+      "time": "2025-05-05 16:31:04"
+    },
+    {
+      "player": "Ich mochte ask, did you read my blog",
+      "npc": "**[blinzelt, dann lämmert sich, während die Kaffeetasse in der Hand zittert]**  \n\"Äh... deinen *Blog*? Hmm...\" **[kratzt sich am Kopf, wirkt leicht verwirrt, aber bemüht freundlich]**  \n\"Also, ehrlich gesagt, ich... hab nicht so viel Zeit zum Lesen. **[lacht nervös, greift nach einem Zuckerwürfel]**  \nAber! **[plötzlich aufmerksam, lehnt sich über die Theke]** Wenn du was Spannendes schreibst – vielleicht über... *komische Dinge in der Stadt?* – dann sag’s mir! **[zwinkert, dann wird der Ton leiser]**  \nManchmal... **[blickt zur Kellertür, schluckt]** ...gibt’s hier Geschichten, die *keiner* aufschreibt.\"  \n\n**[schiebt dir ein Stück Zufallskuchen zu, lächelt verschmitzt]**  \n\"Also – was steht in deinem Blog? *Geheimnisse?* Oder nur... Kaffeerezepte?\" **[kichert, aber die Augen bleiben wachsam]**  \n\n*(Übersetzung: \"Your blog? Well... I don’t read much. But if you write about... *strange town secrets* – tell me! Sometimes, there are stories *nobody* writes down. So – what’s in your blog? *Secrets?* Or just... coffee recipes?\")*  \n\n**[denkt: Warum fragt er ausgerechnet *heute* nach dem Blog? Zuckt zusammen, als die Kellertür knarrt.]**",
+      "time": "2025-05-05 16:32:15"
+    },
+    {
+      "player": "hallo anna, i have wrote some blog and did you read them",
+      "npc": "**[blinzelt, dann lämmert sich, während die Kaffetasse in der Hand zittert]**\n\n\"Äh... deinen *Blog*? Hmm...\" **[kratzt sich am Kopf, wirkt leicht verwirrt, aber bemüht freundlich]**\n\n\"Also, ehrlich gesagt, ich... hab nicht so viel Zeit zum Lesen. **[lacht nervös, greift nach einem Zuckerwürfel]**\n\nAber! **[plötzlich aufmerksam, lehnt sich über die Theke]**\n\nWenn du was Spannendes schreibst – vielleicht über... *komische Dinge in der Stadt?* – dann sag’s mir! **[zwinkert, dann wird der Ton leiser]**\n\nManchmal... **[blickt zur Kellertür, schluckt]**\n\n...gibt’s hier Geschichten, die *keiner* aufschreibt.\"\n\n**[schiebt dir ein Stück Zufallskuchen zu, lächelt verschmitzt]**\n\n\"Also – was steht in deinem Blog? *Geheimnisse?* Oder nur... Kafferezepte?\" **[kichert, aber die Augen bleiben wachsam]**\n\n**[denkt: Warum fragt er ausgerechnet *heute* nach dem Blog? Zuckt zusammen, als die Kellertür knarrt.]**\n\n(Übersetzung: \"Your blog? Well... I don’t read much. But if you write about... *strange town secrets* – tell me! Sometimes, there are stories *nobody* writes down. So – what’s in your blog? *Secrets?* Or just... coffee recipes?\")\n\n**[denkt: Why is he asking about the blog *today* of all days? Flinches as the cellar door creaks.]\"**",
+      "time": "2025-05-05 16:39:44"
+    },
+    {
+      "player": "sorry, I thought people might read my blogs",
+      "npc": "**[lacht leise und schüttelt den Kopf, während sie die Kaffeetasse abstellt]**  \n\n\"Ach, keine Sorge! *[zwinkert]* In dieser Stadt liest eh jeder nur Jonas' Klatschzeitung... oder die geheimen Zettel im Park. *[grinst, dann wird ihr Blick etwas nachdenklich]*  \n\nAber hey – *[schiebt eine Zimtschnecke rüber]* wenn du magst, erzähl mir doch einfach selbst, was drinsteht. *[senkt die Stimme]* Ich hab sowieso das Gefühl, heute ist ein Tag für... *ungeschriebene* Geschichten. *[spielt mit ihrem Schürzenband, wirkt unruhig]*  \n\n...Warte, *[plötzlich aufmerksam]* stand da was von einem... *dritten Bein*? *[kichert, dann wird sie rot]* O-oder war das ein Witz?\"  \n\n**[die Kellertür knarrt – sie erstarrt für eine Sekunde, dann zwängt sich ein Lächeln heraus]**  \n\n*(Übersetzung: \"Don’t worry! In this town, everyone only reads Jonas’ gossip paper... or the secret notes in the park. But hey – if you want, just tell me what’s in it. I feel like today’s a day for... *unwritten* stories. Wait, did it say something about a... *third leg*? Or was that a joke?\")*  \n\n**[denkt: Warum knarrt die Tür NUR wenn er von *Geheimnissen* spricht?! Atmet tief durch.]**",
+      "time": "2025-05-05 16:41:50"
+    },
+    {
+      "player": "oh no, the third leg is about my blog!",
+      "npc": "**[lacht, aber die Augen werden etwas größer, als sie die Worte versteht]**\n\n\"W-was? *Drittes Bein* und *Blog*? Hmm...\" **[kratzt sich am Kopf, wirkt verwirrt, aber interessiert]**\n\n\"Also... dein Blog ist *das dritte Bein*? Oder... warte, ist das ein Code?\" **[leise, fast flüsternd, während sie sich zur Theke lehnt]**\n\n\"*Sag mal...*\" **[blickt sich schnell um, dann näher] \"Ist das so ein... *geheimer Blog*? Über die *komischen Dinge hier in der Stadt?*\"** **[die Finger zittern leicht, als sie die Kaffeetasse umstellt]**\n\n\"Oder... **[plötzlich unsicher, zuckt mit den Schultern]** ...ist das einfach ein *witziger Blogname*?\" **[lacht nervös, aber die Augen bleiben scharf]**\n\n\"*Erzähl mir mehr!*\" **[schiebt heimlich ein Stück Kuchen rüber, als Bestechung]** \"Ich mag... *Geheimnisse.*\" **[die Kellertür knarrt – sie zuckt nicht einmal mehr, zu fokussiert auf die Antwort]**\n\n(Übersetzung: \"Wait, your blog is the *third leg*? Or... is that a code? *Tell me...* Is this a *secret blog*? About the *weird things in town?* Or... is it just a *funny blog name*? *Tell me more!* I like... *secrets.*\")  \n\n**[denkt: JETZT verstehe ich es – der Blog ist der SCHLÜSSEL! Aber warum sagt er es so offen? ...Oder ist das ein Test?]**",
+      "time": "2025-05-05 16:44:25"
+    },
+    {
+      "player": "ahh so you do read my blog, maybe just forgot about it, it is ok, just tell me - what is your hobby",
+      "npc": "**[lacht auf, während sie eine Tasse poliert – dann hält sie inne und wirft dem Spieler einen spitzbübischen Blick zu]**  \n\n\"*Lesen?* Naja... *[kratzt sich am Kinn]* Also, *deinen* Blog? Ehrlich gesagt, ich... **[seufzt theatralisch]** ...vergesse oft, was ich gestern gelesen hab. *[zwinkert]* Vielleicht weil ich zu viel Kaffee trinke!\"  \n\n**[legt die Tasse weg, wird plötzlich lebhaft]**  \n\n\"Aber *Hobbys*! *[klatscht in die Hände]* Endlich ein normales Thema! Also...\" **[denkt kurz nach, dann grinst sie]**  \n\n\"Ich sammle *komische Kaffeetassen* – die mit den kaputten Henkeln oder so *gruseligen* Mustern. *[flüstert]* Lara sagt, das ist *unheimlich*... aber ich finde, die passen perfekt zu unserem Keller! *[lacht, dann erstarrt sie kurz – als hätte sie zu viel gesagt]*  \n\nÄh... und du? Hast du auch so... *seltsame* Hobbys? *[schiebt ihm eine Tasse mit einem schiefen Clownsgesicht zu]* Vielleicht *Bloggen über dritte Beine*?\"  \n\n**[denkt: WARUM habe ich schon wieder den KELLER erwähnt?! Verdammter Kaffee...]**  \n\n*(Übersetzung: \"Reading? Well... *your* blog? Honestly, I... forget what I read yesterday. Maybe too much coffee! But *hobbies*! I collect *weird coffee mugs* – broken handles or creepy patterns. Lara says it's *spooky*... but they fit our cellar perfectly! Uh... and you? Any *weird* hobbies? Like *blogging about third legs*?\")*  \n\n**[denkt: WHY did I mention the cellar AGAIN?! Damn coffee...]**",
+      "time": "2025-05-05 16:46:36"
+    },
+    {
+      "player": "ahh so you do read my blog, maybe just forgot about it, it is ok, just tell me - what is your hobby",
+      "npc": "**[lacht, während sie eine Tasse mit einem süßen, aber leicht schiefen Smiley-Muster in die Hand nimmt]**\n\n\"Ah, also mein Hobby... *[denkt kurz nach, dann zeigt sie auf die Tasse in ihrer Hand]* Ich sammle diese komischen Tassen! Die mit den kaputten Henkeln oder den lustigen Gesichtern. *[zwinkert]* Lara sagt immer, das ist 'gruselig' – aber ich finde, sie passen perfekt in mein Café! *[legt die Tasse vorsichtig ab]*\n\nUnd du? *[lehnt sich neugierig über die Theke]* Hast du auch so... besondere Hobbys? *[grinst]* Vielleicht sammelst du ja *Geheimnisse*? *[lacht, dann wird ihr Blick kurz nachdenklich, als sie die Uhr an der Wand bemerkt]*\n\n*[schüttelt den Kopf, als würde sie sich selbst ermahnen]* Ach, egal – erzähl mir lieber von *deinen* Interessen! *[schiebt eine frisch gebackene Zimtschnecke rüber]* Hier, als... Anreiz. *[zwinkert]*\n\n*[denkt: Warum frage ich immer nach Geheimnissen? Vielleicht sollte ich mal weniger Kaffee trinken...]*\"  \n\n*(Übersetzung: \"Ah, my hobby... I collect these weird mugs! The ones with broken handles or funny faces. Lara says it's 'creepy' – but I think they fit my café perfectly! And you? Do you have any special hobbies? Maybe you collect *secrets*? Oh, never mind – tell me about *your* interests! Here, a cinnamon roll as... incentive. *[thinks: Why do I always ask about secrets? Maybe I should drink less coffee...]*)",
+      "time": "2025-05-05 16:48:09"
+    },
+    {
+      "player": "ahh so you do read my blog, maybe just forgot about it, it is ok, just tell me - what is your hobby",
+      "npc": "**[lacht, während sie eine Tasse mit einem schiefen Clownsgesicht poliert – dann hält sie inne und zwinkert dir zu]**  \n\n\"*Lesen?* Naja... *[kratzt sich am Kinn]* Also, *deinen* Blog? Ehrlich gesagt, ich... **[seufzt theatralisch]** ...vergesse oft, was ich gestern gelesen hab. *[zwinkert]* Vielleicht weil ich zu viel Kaffee trinke!\"  \n\n**[legt die Tasse weg, wird plötzlich lebhaft]**  \n\n\"Aber *Hobbys*! *[klatscht in die Hände]* Endlich ein normales Thema! Also...\" **[denkt kurz nach, dann grinst sie]**  \n\n\"Ich sammle *komische Kaffeetassen* – die mit den kaputten Henkeln oder so *gruseligen* Mustern. *[flüstert]* Lara sagt, das ist *unheimlich*... aber ich finde, die passen perfekt zu unserem Keller! *[lacht, dann erstarrt sie kurz – als hätte sie zu viel gesagt]*  \n\nÄh... und du? Hast du auch so... *seltsame* Hobbys? *[schiebt dir eine Tasse mit einem schiefen Clownsgesicht zu]* Vielleicht *Bloggen über dritte Beine*?\"  \n\n**[denkt: WARUM habe ich schon wieder den KELLER erwähnt?! Verdammter Kaffee...]**  \n\n*(Übersetzung: \"Reading? Well... *your* blog? Honestly, I... forget what I read yesterday. Maybe too much coffee! But *hobbies*! I collect *weird coffee mugs* – broken handles or creepy patterns. Lara says it's *spooky*... but they fit our cellar perfectly! Uh... and you? Any *weird* hobbies? Like *blogging about third legs*?\")*  \n\n**[denkt: WHY did I mention the cellar AGAIN?! Damn coffee...]**",
+      "time": "2025-05-05 16:50:50"
     }
   ],
   "conversation_summary": {
     "date": "2025-05-05",
-    "summary_de": "Hier ist die Zusammenfassung mit Fokus auf Stimmung, Vertrauen und Gerüchte:  \n\n1. **Vertrauen & Stimmung:** Anna wirkt freundlich und zuvorkommend, bietet dem Spieler einen Latte an und zeigt Interesse an einem Gespräch (Zimtschnecken, Hilfe anbietend).  \n2. **Gerüchte:** Sie erwähnt beiläufig, dass Lara im Krankenhaus viel los sei, deutet aber kein spezifisches Gerücht an – eher eine neutrale Information.  \n3. **Fokus auf Alltag:** Im weiteren Verlauf bleibt sie entspannt (Kaffee, Brötchen backen), vermeidet aufdringliche Fragen und hält die Stimmung warm, ohne Neujahrsthemen zu wiederholen.  \n\n**Fazit:** Keine klaren Gerüchte, aber eine vertrauensvolle, ungezwungene Atmosphäre.",
-    "summary_en": "**Summary with a focus on mood, trust, and rumors:**  \n\n1. **Trust & Mood:** Anna comes across as friendly and welcoming, offering the player a latte and showing interest in conversation (mentioning cinnamon rolls and offering help).  \n2. **Rumors:** She casually mentions that the hospital is busy, but this doesn’t hint at any specific rumor—just a neutral observation.  \n3. **Everyday Focus:** She keeps things relaxed (coffee, baking rolls), avoids pushy questions, and maintains a warm atmosphere without bringing up New Year’s topics again.  \n\n**Final Take:** No clear rumors, but a natural, trusting, and easygoing vibe."
+    "summary_de": "**[lacht, während sie eine Zimtschnecke auf einen Teller legt, aber ihre Augen verraten eine leichte Nervosität]**\n\n\"Also, mein Hobby? *[zuckt mit den Schultern, während sie die Tasse mit dem schiefen Clownsmuster anstößt]* Ich sammle diese seltsamen Tassen – die, die alle *gruselig* finden, aber ich mag sie. *[flüstert, als würde sie ein Geheimnis verraten]* Manchmal... passen sie zu den Geschichten, die *niemand* laut erzählt. *[schaut zur Kellertür, dann schnell weg]*\n\nAber *dein* Blog... *[spielt mit einem Zuckerwürfel, wirkt plötzlich ernst]* – wenn du wirklich wissen willst, was ich denke: Es ist komisch, wie *genau* er manche Dinge beschreibt. *[lacht gezwungen, greift nach der Kanne]* Mehr Kaffee? *[die Hand zittert leicht]*\n\n*[denkt: Warum fühlt sich das an, als würde jemand meine Worte aufschreiben?]*\"  \n\n(Üdig: \"My hobby? I collect these weird mugs – the ones everyone calls *creepy*. Sometimes they fit the stories *nobody* tells. But your blog... it’s strange how *accurate* it is. More coffee? *[thinks: Why does this feel like someone’s writing my words down?]*\")",
+    "summary_en": "**[laughs while placing a cinnamon roll on a plate, but her eyes betray a slight nervousness]**  \n\n\"So, my hobby? *[shrugs, nudging the mug with the crooked clown pattern]* I collect these weird mugs—the ones everyone calls *creepy*, but I like them. *[whispers, as if revealing a secret]* Sometimes... they match the stories *nobody* tells out loud. *[glances at the basement door, then quickly away]*  \n\nBut *your* blog... *[fidgets with a sugar cube, suddenly serious]*—if you really want to know what I think, it’s weird how *spot-on* it is about certain things. *[forced laugh, reaching for the coffee pot]* More coffee? *[hand trembles slightly]*  \n\n*[thinking: Why does this feel like someone’s writing my words down?]*\""
   },
   "trust_levels": {},
   "escape_clues": [

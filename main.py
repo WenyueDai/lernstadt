@@ -14,7 +14,7 @@ from utils.npc_tool import (
 from utils.text_analysis import update_player_preferences, update_player_preferences_spacy
 from utils.gossip_tool import share_gossip_with_others, filter_available_gossip
 from utils.speech import run_speech
-from utils.prompt_builder import build_npc_prompt
+from utils.prompt_builder import build_npc_prompt, load_player_blog
 from utils.summary import generate_summary, generate_summaries_for_today
 from utils.audio_tools import autoplay_audio
 from utils.escape_tools import discover_escape_clues
@@ -59,6 +59,82 @@ npc_voices = {
     "jonas": "de-DE-ConradNeural"
 }
 
+LOG_FILE = "role_json/myblog_log.json"
+
+# Load gossip log from file
+def load_blog_log():
+    if os.path.exists(LOG_FILE):
+        try:
+            with open(LOG_FILE, "r") as f:
+                content = f.read().strip()
+                if not content:
+                    return []  # Empty file
+                return json.loads(content)
+        except json.JSONDecodeError:
+            st.warning("⚠️ Corrupted gossip_log.json — starting fresh.")
+            return []
+    return []
+
+# Save gossip log to file
+def save_blog_log(log):
+    with open(LOG_FILE, "w") as f:
+        json.dump(log, f, indent=2)
+
+# Initialize session state
+if "blog" not in st.session_state:
+    st.session_state["blog"] = load_blog_log()
+
+if "last_blog" not in st.session_state:
+    st.session_state["last_blog"] = ""
+
+st.sidebar.markdown("### 📝 Blog")
+
+# Input for new blog entry
+new_gossip = st.sidebar.text_input("Add new blog to share ideas with the town!", key="blog_input")
+
+if new_gossip and new_gossip != st.session_state["last_blog"]:
+    new_entry = {
+        "text": new_gossip,
+        "timestamp": datetime.datetime.now().strftime("%Y-%m-%d %H:%M"),
+        "finalized": False  # New field
+    }
+    st.session_state["blog"].append(new_entry)
+    st.session_state["last_blog"] = new_gossip
+    save_blog_log(st.session_state["blog"])
+    st.sidebar.success("Blog entry added!")
+    st.rerun()
+
+# Reset the last_added_gossip flag when input is cleared
+if st.session_state.get("blog_input") == "":
+    st.session_state["last_blog"] = ""
+
+# Editable list of latest 3 entries
+st.sidebar.markdown("### 📂 Last 3 Blog Entries:")
+
+# Show last 3 entries
+last_entries = st.session_state["blog"][-3:]
+for i in range(len(last_entries) - 1, -1, -1):
+    entry = last_entries[i]
+    idx = len(st.session_state["blog"]) - len(last_entries) + i
+
+    with st.sidebar.expander(f"{entry['timestamp']}"):
+        if entry.get("finalized", False):
+            st.markdown(f"**Saved Blog Entry:** {entry['text']}")
+        else:
+            edited_text = st.text_area("Edit", value=entry["text"], key=f"text_edit_{idx}")
+            col1, col2 = st.columns(2)
+
+            if col1.button("💾 Save", key=f"save_btn_{idx}"):
+                st.session_state["blog"][idx]["text"] = edited_text
+                st.session_state["blog"][idx]["finalized"] = True
+                save_blog_log(st.session_state["blog"])
+                st.rerun()
+
+            if col2.button("❌ Delete", key=f"delete_btn_{idx}"):
+                st.session_state["blog"].pop(idx)
+                save_blog_log(st.session_state["blog"])
+                st.rerun()
+            
 # === Sidebar ===
 scene = st.sidebar.selectbox("Ort", list(scene_npcs.keys()))
 npc_name = st.sidebar.selectbox("Charakter", scene_npcs[scene])
@@ -153,10 +229,21 @@ if user_input:
     if npc.get("suspicion_level", 0.0) > 0.6:
         tone_hint = "Du hast ein ungutes Gefühl beim Spieler. Vielleicht verbirgst du etwas oder sprichst vorsichtiger."
 
+    player_blog = load_player_blog(LOG_FILE)
+
+    # Assume npc_dict and other required values are defined
     prompt = build_npc_prompt(
-        npc, user_input, today, today_str, current_time_str,
-        mood_today, calendar_today, gossip_texts,
-        escape_clue_texts=npc.get("escape_clues", []), tone_hint=tone_hint
+        npc=npc,
+        user_input=user_input,
+        today=today,
+        today_str=today_str,
+        current_time_str=current_time_str,
+        mood_today=mood_today,
+        calendar_today=calendar_today,
+        gossip_texts=gossip_texts,
+        escape_clue_texts=npc.get("escape_clues", []),
+        tone_hint=tone_hint,
+        player_blog=player_blog
     )
 
     try:

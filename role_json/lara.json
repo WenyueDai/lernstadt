@@ -70,8 +70,36 @@
       "player": "how are you today, any patient",
       "npc": "Hallo! Danke der Nachfrage – mir geht's gut, aber wir haben heute viel zu tun im Krankenhaus. Ein paar ältere Patienten brauchen besondere Pflege. (Ich korrigiere dich freundlich: Es müsste *\"any patients\"* heißen, weil es mehrere sind.)  \n\nÜbrigens... hast du schon Pläne für die nächsten Monate? Lernstadt hat im Winter etwas Besonderes... *[leise lächelnd]* Aber erzähl mal, wie geht's dir?  \n\n*(P.S.: Dein Deutsch ist schon gut! Falls du lieber auf Englisch sprichst, sag einfach Bescheid.)*",
       "time": "2025-05-05 09:33:59"
+    },
+    {
+      "player": "Hallo lara, I am here to ask about the tunnel under the hospital - what is it for?",
+      "npc": "German speak please.  \n\nAber... Moment, du fragst nach dem Tunnel unter dem Krankenhaus? *leicht nervöses Lachen* Das ist... nun ja, nicht wirklich etwas, worüber ich sprechen sollte. Es ist mehr so eine interne Sache. Warum interessiert dich das? *blickt dich prüfend an*  \n\nFalls du etwas Hilfe mit Deutsch brauchst, sag einfach Bescheid – ich kann dir gern alles auf Deutsch erklären. 😊",
+      "time": "2025-05-05 15:12:33"
+    },
+    {
+      "player": "Das is sehr gut, i mochte learn more about hospital german",
+      "npc": "Oh, das freut mich, dass du mehr über das Krankenhaus erfahren möchtest! Hier sprechen wir natürlich Deutsch – aber wenn du Hilfe brauchst, sag einfach Bescheid.  \n\nIm Krankenhaus gibt es immer viel zu tun. Ich helfe vor allem den älteren Patienten, gebe Medikamente und höre ihnen zu. Manchmal ist es anstrengend, aber ich mag meine Arbeit.  \n\nÜbrigens... Jonas, der Briefträger, bringt uns oft Pakete mit Medikamenten. Er ist sehr zuverlässig!  \n\nMöchtest du etwas Bestimmtes wissen? Die Arbeit hier ist manchmal überraschend – gestern zum Beispiel... *sie hält inne* Naja, vielleicht erzähle ich das ein anderes Mal.  \n\n*Sie wirft einen kurzen Blick auf die Uhr und seufzt leicht* Irgendwie fühlt sich heute alles... anders an. Keine Ahnung, warum.",
+      "time": "2025-05-05 15:13:35"
+    },
+    {
+      "player": " gestern? was passiert?",
+      "npc": "Hallo! Gestern war ein ganz normaler Tag hier im Krankenhaus. Nichts Besonderes passiert, aber heute ist ja auch noch Zeit für Überraschungen, oder?  \n\nFalls du etwas über die Stadt wissen möchtest – ich helfe gern! Was interessiert dich denn?  \n\n*(Hinweis: Spieler hat Deutsch verstanden, also keine Übersetzung nötig. Leichte A2-Sprache mit freundlichem, neugierigem Ton. Keine Erwähnung von Neujahr, da heute schon geschehen.)*",
+      "time": "2025-05-05 15:14:54"
+    },
+    {
+      "player": "you mentioned about lara, how was she",
+      "npc": "Oh, du meinst *mich*? *lacht leise* Na ja, ich bin wie immer: beschäftigt, aber glücklich mit meiner Arbeit. Die Patienten brauchen oft jemanden, der einfach zuhört – und das tue ich gern.  \n\nManchmal bin ich ein bisschen verträumt... heute zum Beispiel *streift sich eine Haarsträhne hinters Ohr* Irgendwas liegt in der Luft, aber ich kann nicht sagen was.  \n\nUnd du? Wie geht‘s dir heute? Magst du Krankenhäuser – oder bist du mehr der Café-Typ? Anna macht übrigens den besten Apfelkuchen der Stadt! 😊  \n\n*(Hinweis: Spieler versteht Deutsch, also keine Übersetzung. ENFJ-T-Stil: warm, persönlich, leicht ablenkend. Kein Neujahr heute mehr erwähnen!)*",
+      "time": "2025-05-05 16:01:01"
+    },
+    {
+      "player": "Did you read my blog?",
+      "npc": "Oh! *nickt interessiert* Deinen Blog? Ehrlich gesagt, ich hatte heute noch keine Zeit dazu – im Krankenhaus ist immer so viel los. *seufzt lächelnd*  \n\nAber jetzt bin ich neugierig! Worum geht’s denn da? Erzählst du von Reisen... oder vielleicht Geheimnissen? *zwinkert*  \n\n*(Hinweis: Spieler versteht Deutsch, also keine Übersetzung. ENFJ-T-Stil: warm, aufmerksam, leicht verspielt. Kein Neujahr erwähnen – heute schon getan!)*  \n\nFalls du was Bestimmtes meinst... *lehnt sich leicht vor* Sag’s mir gern! Ich höre zu. 😊",
+      "time": "2025-05-05 16:51:52"
     }
   ],
   "conversation_summary": {},
-  "trust_levels": {}
+  "trust_levels": {},
+  "escape_clues": [
+    "hospital_secret_exit"
+  ]
 }
