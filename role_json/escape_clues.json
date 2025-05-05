@@ -1,0 +1,23 @@
+{
+    "clues": [
+      {
+        "id": "hospital_secret_exit",
+        "found_by": ["lara"],
+        "day_unlocked": 25,
+        "text": "Es gibt einen alten Tunnel unter dem Krankenhaus – früher ein Luftschutzbunker."
+      },
+      {
+        "id": "festival_pattern",
+        "found_by": ["jonas"],
+        "day_unlocked": 29,
+        "text": "Jedes Jahr kommen neue Besucher... und am 2. Januar spricht niemand mehr über sie."
+      },
+      {
+        "id": "hidden_basement_well",
+        "found_by": ["anna"],
+        "day_unlocked": 30,
+        "text": "Der Brunnen im Keller des Cafés führt tiefer als gedacht – manche glauben, er endet außerhalb der Stadtmauer."
+      }
+    ]
+  }
+  

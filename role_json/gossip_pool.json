@@ -1,0 +1,275 @@
+{
+  "gossips": [
+    {
+      "id": "gossip_001",
+      "content": "Someone has been opening and resealing letters at the Lernstadt post office.",
+      "source": "Jonas",
+      "confirmed": false,
+      "exposed_to": ["Jonas", "Anna"],
+      "truth": true,
+      "theme": "mystery",
+      "day_unlocked": 1
+    },
+    {
+      "id": "gossip_002",
+      "content": "The mayor is planning a big New Year's festival — but nobody knows what it's really about.",
+      "source": "Anna",
+      "confirmed": false,
+      "exposed_to": ["Anna", "Lara", "Jonas"],
+      "truth": true,
+      "theme": "ritual",
+      "day_unlocked": 2
+    },
+    {
+      "id": "gossip_003",
+      "content": "Several tourists have mysteriously disappeared right after New Year's Day in previous years.",
+      "source": "Lara",
+      "confirmed": false,
+      "exposed_to": ["Lara", "Jonas"],
+      "truth": true,
+      "theme": "sacrifice",
+      "day_unlocked": 3
+    },
+    {
+      "id": "gossip_004",
+      "content": "There’s a hidden room under the hospital only staff are allowed to enter.",
+      "source": "Lara",
+      "confirmed": false,
+      "exposed_to": ["Lara"],
+      "truth": false,
+      "theme": "creepy_but_false",
+      "day_unlocked": 4
+    },
+    {
+      "id": "gossip_005",
+      "content": "The café's cellar has a door that's always locked — even Anna avoids it.",
+      "source": "Jonas",
+      "confirmed": false,
+      "exposed_to": ["Jonas", "Lara"],
+      "truth": true,
+      "theme": "ritual",
+      "day_unlocked": 4
+    },
+    {
+      "id": "gossip_006",
+      "content": "The town council collects personal details about visitors, but says it's 'for festival invitations'.",
+      "source": "Anna",
+      "confirmed": false,
+      "exposed_to": ["Anna"],
+      "truth": true,
+      "theme": "town_control",
+      "day_unlocked": 2
+    },
+    {
+      "id": "gossip_007",
+      "content": "Children in Lernstadt are told not to whistle at night — it attracts 'the Watcher'.",
+      "source": "Jonas",
+      "exposed_to": ["Jonas", "Anna"],
+      "truth": true,
+      "theme": "ritual",
+      "day_unlocked": 2
+    },
+    {
+      "id": "gossip_008",
+      "content": "The bakery’s sourdough starter is over 100 years old — and whispers if left alone.",
+      "source": "Anna",
+      "exposed_to": ["Anna", "Lara"],
+      "truth": false,
+      "theme": "life",
+      "day_unlocked": 1
+    },
+    {
+      "id": "gossip_009",
+      "content": "A traveler once survived the Festival by hiding in the well under the old chapel.",
+      "source": "Lara",
+      "exposed_to": ["Lara"],
+      "truth": true,
+      "theme": "survival_tip",
+      "day_unlocked": 5
+    },
+    {
+      "id": "gossip_010",
+      "content": "There’s a girl who never speaks and appears only on December 31st — wearing all red.",
+      "source": "Jonas",
+      "exposed_to": ["Jonas", "Lara"],
+      "truth": true,
+      "theme": "myth",
+      "day_unlocked": 6
+    },
+    {
+      "id": "gossip_011",
+      "content": "Some villagers say the Festival is just a story to keep people from leaving.",
+      "source": "Anna",
+      "exposed_to": ["Anna", "Jonas"],
+      "truth": false,
+      "theme": "denial",
+      "day_unlocked": 4
+    },
+    {
+      "id": "gossip_012",
+      "content": "The town library has books that aren’t listed in the catalog — some bound in skin.",
+      "source": "Lara",
+      "exposed_to": ["Lara", "Jonas"],
+      "truth": true,
+      "theme": "ritual",
+      "day_unlocked": 5
+    },
+    {
+      "id": "gossip_013",
+      "content": "Visitors often report waking up with scratches after sleeping near the town square.",
+      "source": "Jonas",
+      "exposed_to": ["Jonas"],
+      "truth": true,
+      "theme": "warning",
+      "day_unlocked": 3
+    },
+    {
+      "id": "gossip_014",
+      "content": "The sick heal faster in Lernstadt because the air is enchanted by mountain herbs.",
+      "source": "Anna",
+      "exposed_to": ["Anna", "Lara"],
+      "truth": true,
+      "theme": "healing",
+      "day_unlocked": 1
+    },
+    {
+      "id": "gossip_015",
+      "content": "Someone found a set of ritual knives buried near the forest path.",
+      "source": "Lara",
+      "exposed_to": ["Lara", "Jonas"],
+      "truth": true,
+      "theme": "ritual",
+      "day_unlocked": 4
+    },
+    {
+      "id": "gossip_016",
+      "content": "If you attend the Festival and survive, you’re guaranteed good health for a year.",
+      "source": "Jonas",
+      "exposed_to": ["Jonas"],
+      "truth": false,
+      "theme": "temptation",
+      "day_unlocked": 6
+    },
+    {
+      "id": "gossip_017",
+      "content": "The mayor hasn't aged in twenty years — but no one dares ask why.",
+      "source": "Anna",
+      "exposed_to": ["Anna", "Lara"],
+      "truth": true,
+      "theme": "mayor_mystery",
+      "day_unlocked": 3
+    },
+    {
+      "id": "gossip_018",
+      "content": "The old town bell only rings on its own when a stranger is about to disappear.",
+      "source": "Jonas",
+      "exposed_to": ["Jonas", "Lara"],
+      "truth": true,
+      "theme": "warning",
+      "day_unlocked": 7
+    },
+    {
+      "id": "gossip_019",
+      "content": "There’s a second, hidden festival — not in the plaza, but deep in the forest.",
+      "source": "Lara",
+      "exposed_to": ["Lara"],
+      "truth": true,
+      "theme": "ritual",
+      "day_unlocked": 10
+    },
+    {
+      "id": "gossip_020",
+      "content": "Jonas believes one NPC vanishes every New Year. But he never remembers who.",
+      "source": "Anna",
+      "exposed_to": ["Anna", "Jonas"],
+      "truth": true,
+      "theme": "sacrifice",
+      "day_unlocked": 12
+    },
+    {
+      "id": "gossip_021",
+      "content": "Lara once saw the mayor walking barefoot in the snow at midnight, eyes glowing.",
+      "source": "Jonas",
+      "exposed_to": ["Jonas", "Anna"],
+      "truth": false,
+      "theme": "creepy_but_false",
+      "day_unlocked": 15
+    },
+    {
+      "id": "gossip_022",
+      "content": "A traveler who escaped said the café cellar leads into the mountain.",
+      "source": "Anna",
+      "exposed_to": ["Anna"],
+      "truth": true,
+      "theme": "escape",
+      "day_unlocked": 17
+    },
+    {
+      "id": "gossip_023",
+      "content": "The doctor sometimes writes prescriptions in a language no one can read.",
+      "source": "Lara",
+      "exposed_to": ["Lara"],
+      "truth": false,
+      "theme": "creepy_but_false",
+      "day_unlocked": 18
+    },
+    {
+      "id": "gossip_024",
+      "content": "Someone spotted three shadowy figures dancing in the square at 3:33 AM.",
+      "source": "Jonas",
+      "exposed_to": ["Jonas"],
+      "truth": true,
+      "theme": "ritual",
+      "day_unlocked": 21
+    },
+    {
+      "id": "gossip_025",
+      "content": "Anna says she wakes up with different memories every January 2nd.",
+      "source": "Anna",
+      "exposed_to": ["Anna", "Lara"],
+      "truth": true,
+      "theme": "memory",
+      "day_unlocked": 25
+    },
+    {
+      "id": "gossip_026",
+      "content": "The festival’s symbol matches a carving found in a prehistoric burial cave nearby.",
+      "source": "Lara",
+      "exposed_to": ["Lara", "Jonas"],
+      "truth": true,
+      "theme": "ancient_origin",
+      "day_unlocked": 28
+    },
+    {
+      "id": "gossip_027",
+      "content": "The mayor keeps a list titled 'Guests Who Stay' hidden in their drawer.",
+      "source": "Jonas",
+      "exposed_to": ["Jonas", "Anna"],
+      "truth": true,
+      "theme": "town_control",
+      "day_unlocked": 31
+    },
+    {
+      "id": "gossip_028",
+      "content": "People say Lara talks to the empty hospital beds when she thinks no one's around.",
+      "source": "Jonas",
+      "target": "Lara",
+      "exposed_to": ["Jonas", "Anna"],
+      "truth": false,
+      "theme": "npc_personal",
+      "day_unlocked": 5
+    },
+    {
+      "id": "gossip_029",
+      "content": "They say Jonas once tried to leave the town but forgot why halfway down the road.",
+      "source": "Anna",
+      "target": "Jonas",
+      "exposed_to": ["Anna", "Lara"],
+      "truth": true,
+      "theme": "npc_memory",
+      "day_unlocked": 6
+    }
+    
+    
+  ]
+}
